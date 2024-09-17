@@ -1,2 +1,2 @@
-# My-first-project-Javascript
+# My-first-project
 
